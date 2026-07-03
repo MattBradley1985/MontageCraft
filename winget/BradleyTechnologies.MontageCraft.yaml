@@ -1,0 +1,7 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.6.0.schema.json
+# Version manifest (glue) - ties the three files together.
+PackageIdentifier: BradleyTechnologies.MontageCraft   # must match in all 3 files and the folder path
+PackageVersion: 2026.0.1.0
+DefaultLocale: en-US
+ManifestType: version
+ManifestVersion: 1.6.0

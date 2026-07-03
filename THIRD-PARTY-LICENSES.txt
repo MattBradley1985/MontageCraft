@@ -1,0 +1,40 @@
+MontageCraft — Third-Party Software Notices
+============================================
+
+MontageCraft itself is freeware (see LICENSE). It is built with, and its
+installer bundles, the open-source components listed below, each of which
+remains licensed under its own terms. Full license texts are available from
+each project at the URLs given.
+
+------------------------------------------------------------------------------
+Qt and PySide6 / shiboken6
+    License: GNU Lesser General Public License v3.0 (LGPL-3.0)
+    Used under the LGPL. The Qt libraries are dynamically loaded and may be
+    replaced by the user. Source and license: https://www.qt.io/licensing and
+    https://www.gnu.org/licenses/lgpl-3.0.html
+
+FFmpeg  (bundled via imageio-ffmpeg; also used within OpenCV)
+    License: GNU Lesser General Public License v2.1 or later (LGPL-2.1+)
+    Invoked as a separate executable. Legal/notices: https://ffmpeg.org/legal.html
+    Source: https://ffmpeg.org/download.html
+
+imageio-ffmpeg (Python wrapper)      License: BSD 2-Clause
+OpenCV (opencv-python)               License: Apache License 2.0
+NumPy                                License: BSD 3-Clause
+SciPy                                License: BSD 3-Clause
+Pillow                               License: HPND (open source, MIT/CMU style)
+defusedxml                           License: Python Software Foundation License
+ImageHash                            License: BSD 2-Clause
+tinytag                              License: MIT License
+qrcode                               License: BSD License
+
+reverse_geocoder
+    License: GNU Lesser General Public License v3.0 (LGPL-3.0)
+    Ships the GeoNames "cities1000" database.
+    GeoNames data is Copyright (c) GeoNames and licensed under the
+    Creative Commons Attribution 4.0 license (CC BY 4.0).
+    Attribution: this product uses data from GeoNames (https://www.geonames.org/).
+
+------------------------------------------------------------------------------
+The names of the above projects and their trademarks belong to their
+respective owners. Their inclusion does not imply endorsement of MontageCraft.

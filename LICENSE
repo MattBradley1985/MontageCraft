@@ -1,0 +1,40 @@
+MontageCraft — Freeware License
+Copyright (c) 2026 Bradley Technologies, Inc. All rights reserved.
+
+1. FREE TO USE
+   MontageCraft is freeware. You may install and use it at no charge, for
+   personal or commercial purposes, on as many computers as you like.
+
+2. FREE TO SHARE (UNMODIFIED)
+   You may copy and redistribute the original, unmodified installer free of
+   charge, provided you do not charge any fee for it and you keep this license
+   and all copyright and attribution notices intact.
+
+3. RESTRICTIONS
+   You may NOT:
+   - sell, rent, or charge any fee for the software;
+   - modify, adapt, translate, or create derivative works of the software;
+   - decompile, disassemble, or otherwise reverse-engineer it, except to the
+     extent that applicable law expressly permits despite this limitation;
+   - remove or alter any copyright, trademark, or attribution notice;
+   - distribute modified versions.
+   The software is provided in binary form only; no source code is included.
+
+4. THIRD-PARTY COMPONENTS
+   MontageCraft bundles third-party software (including FFmpeg, the Qt/PySide6
+   libraries, OpenCV, and others), each of which remains licensed under its own
+   terms. Nothing in this license limits the rights you have under those
+   licenses with respect to those components.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL BRADLEY TECHNOLOGIES, INC. BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+   OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE
+   USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+By installing or using MontageCraft you agree to these terms.

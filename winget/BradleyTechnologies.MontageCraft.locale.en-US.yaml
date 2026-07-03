@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
+# Locale manifest - the metadata users see in `winget search` / `winget show`.
+PackageIdentifier: BradleyTechnologies.MontageCraft
+PackageVersion: 2026.0.1.0
+PackageLocale: en-US
+Publisher: Bradley Technologies, Inc.
+PublisherUrl: http://www.brad-tech.com
+PublisherSupportUrl: https://github.com/MattBradley1985/MontageCraft/issues
+PackageName: MontageCraft
+PackageUrl: https://github.com/MattBradley1985/MontageCraft
+License: Freeware
+LicenseUrl: https://github.com/MattBradley1985/MontageCraft/blob/main/LICENSE
+Copyright: Copyright (c) 2026 Bradley Technologies, Inc.
+ShortDescription: Free Windows app that turns your photos into a slideshow set to music - a shareable MP4 or a live viewer.
+Description: >-
+  MontageCraft turns a folder of photos into a slideshow set to music. Pick photos by
+  date, location, favorites, or quality; add your own music; choose transitions and
+  Ken Burns motion; and either render an upload-ready MP4 (1080p or 4K) or run a private
+  live "digital photo frame" viewer you can open from any device on your network. Photos
+  are captioned automatically with their place and date. Free to use and share.
+Moniker: montagecraft
+Tags:
+  - slideshow
+  - montage
+  - photo
+  - photos
+  - video
+  - music
+  - ken-burns
+  - media
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
+# Installer manifest - where the file lives and how it installs.
+PackageIdentifier: BradleyTechnologies.MontageCraft
+PackageVersion: 2026.0.1.0
+InstallerLocale: en-US
+Platform:
+  - Windows.Desktop
+MinimumOSVersion: 10.0.0.0
+InstallerType: inno            # MontageCraft ships an Inno Setup installer
+Scope: machine                 # installs to Program Files (requires admin); matches PrivilegesRequired=admin
+InstallModes:
+  - interactive
+  - silent
+  - silentWithProgress
+UpgradeBehavior: install
+ReleaseDate: 2026-07-03         # EDIT if the release date differs
+Installers:
+  - Architecture: x64
+    # EDIT: replace MattBradley1985 with your GitHub account, and confirm the release tag/filename.
+    InstallerUrl: https://github.com/MattBradley1985/MontageCraft/releases/download/v2026.0.1.0/MontageCraft-Setup-2026.0.1.0.exe
+    # SHA-256 of installer/MontageCraft-Setup-2026.0.1.0.exe (recompute if you rebuild the installer):
+    InstallerSha256: BB9287B4012E9E6424372A5F4923241146C2AFAC0F3C76A68A1DDF9C78840F0C
+ManifestType: installer
+ManifestVersion: 1.6.0
