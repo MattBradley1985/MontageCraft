@@ -9,8 +9,8 @@ Free for Windows 10 & 11. No account, no subscription.
 
 ## Download
 
-**[⬇ Download MontageCraft-Setup-2026.0.1.0.exe](https://github.com/MattBradley1985/MontageCraft/releases/latest)**
-&nbsp;·&nbsp; 64-bit &nbsp;·&nbsp; ~121 MB &nbsp;·&nbsp; free
+**[⬇ Download MontageCraft-Setup-2026.0.2.0.exe](https://github.com/MattBradley1985/MontageCraft/releases/latest)**
+&nbsp;·&nbsp; 64-bit &nbsp;·&nbsp; ~123 MB &nbsp;·&nbsp; free
 
 Or install with the Windows Package Manager:
 
